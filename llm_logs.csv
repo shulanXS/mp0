@@ -1,2 +1,17 @@
-example_chatgpt_log_link1
-example_bing_chat_log_link2
+Cursor AI Assistant
+Date: 2026-08-31
+
+Scope: I used Cursor AI for two things during this assignment:
+1. Setting up the CS 409 MP0 development environment from scratch
+2. Double-checking my final code against the assignment requirements before submitting
+
+Environment setup prompt used:
+"@mp0-main is my assignment. Can you walk me through the CS 409 development workflow?"
+
+Code review prompt used:
+"Please check whether my code strictly meets all the professor's requirements."
+
+Details:
+- I'm familiar with GitHub but had never set up a CS 409 MP environment before. The AI helped me understand the course-specific workflow, including how to use GitHub Pages for deployment.
+- All HTML and CSS code in this repository was written by me. I selected all style choices myself.
+- Before final submission, I asked the AI to review my code against each requirement listed in the MP0 README to make sure nothing was missed.
