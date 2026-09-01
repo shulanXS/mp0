@@ -33,6 +33,10 @@ body {
     margin: 0 0 10px;
 }
 
+.card .email {
+    font-style: italic;
+}
+
 .card a {
     color: #ffffff;
 }
